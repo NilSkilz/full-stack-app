@@ -1,0 +1,9 @@
+{
+  "hosted-zone:account=982842538344:domainName=cloud-printer.co.uk:region=eu-west-1": {
+    "Id": "/hostedzone/Z06226941Y2AUNGFQ65JJ",
+    "Name": "cloud-printer.co.uk."
+  },
+  "acknowledged-issue-numbers": [
+    19836
+  ]
+}
